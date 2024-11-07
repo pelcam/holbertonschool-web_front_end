@@ -1,7 +1,4 @@
-/*
-Add Open Sans as the first choice font for font-family-base, with the previous fonts shifted down accordingly
-Add Raleway as the first choice font for font-family-title, with the previous fonts shifted down accordingly
-*/
+/* task 7 */
 :root {
     --color-primary: #d73953;
     --color-black: #090909;
