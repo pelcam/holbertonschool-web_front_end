@@ -1,7 +1,5 @@
 /*
-Create a new custom property section-header-align and set it to center
-Just above the section-tagline declaration, create a new declaration targeting the class section-header
-Set horizontal alignment of that class with section-header-align
+Style the anchor elements so the text isn’t decorated with anything
 */
 :root {
     --color-primary: #d73953;
@@ -22,7 +20,6 @@ Set horizontal alignment of that class with section-header-align
     --line-height-small: 1.2;
     --line-height-base: 1.5;
     --line-height-big: 1.8;
-    --section-header-align: center;
 }
 html {
     font-size: 62.5%;
@@ -49,9 +46,9 @@ a {
 .card-category {
     color: var(--color-primary);
 }
-.section-header {
-    text-align: var(--section-header-align);
-}
 .section-tagline {
     color: var(--color-primary);
 }
+
+
+
