@@ -26,8 +26,8 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
     --section-title-margin: 0;
     --section-title-color: var(--color-black);
 }
-* { 
-    box-sizing: content-box;
+*, *:after, *:before { 
+    box-sizing: border-box;
 }
 html {
     font-size: 62.5%;
