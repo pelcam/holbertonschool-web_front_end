@@ -32,7 +32,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
     --section-footer-align: center;
     --footer-padding: 5rem 0 1rem;
 }
-*, *:after, *:before { 
+*, *:before, *:after { 
     box-sizing: border-box;
 }
 html {
