@@ -109,6 +109,34 @@ a:active {
     color: var(--nav-item-link-hover);
 }
 
+.row ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.col-1-3 {
+    width: 33.33%;
+    float: left;
+    padding: 50%;
+}
+
+.col-1-2 {
+    width: 50%;
+    float: left;
+    padding: 50%;
+}
+
+.footer-copyright {
+    margin: 0;
+    font-size: var(--font-size-small);
+    color: var(--text-color);
+}
+
+.footer ul {
+    text-align: right;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
